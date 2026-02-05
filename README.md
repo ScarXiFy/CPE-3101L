@@ -1,2 +1,12 @@
-# CPE-3101L
-HDL
+# CPE-3101l
+
+CPE 3101L
+
+
+Lauron, John Enrico D.
+
+
+BS CpE - 3
+
+
+CPE 3101L - INTRODUCTION TO HDL
